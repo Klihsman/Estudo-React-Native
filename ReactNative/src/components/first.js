@@ -2,4 +2,6 @@
 import React from 'react';
 import {Text} from 'react-native';
 
-export default () => <Text>First!</Text>;
+import Style from './styles';
+
+export default () => <Text style={Style.txtB}>First!</Text>;
