@@ -7,6 +7,7 @@ That project is destined to creation of one React-Native project and the study o
 # Estudo Sobre Fundamentos (Study About Fundamentals)
 
 Finalizei alguns exercícios básicos sobre React-native. Dentre eles, podemos citar:
+
 Finished some basic lessons about React-native. Among then, we can quote:
 
 * Gerador de Mega-sena (Mega-sena generetaor)
