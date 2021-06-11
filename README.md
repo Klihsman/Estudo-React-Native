@@ -10,7 +10,7 @@ Finalizei alguns exercícios básicos sobre React-native. Dentre eles, podemos c
 
 Finished some basic lessons about React-native. Among then, we can quote:
 
-* Gerador de Mega-sena (Mega-sena generetaor)
+* Gerador de Mega-sena (Mega-sena generator)
 * Componentes de Layout com Display Flex (Layout components with Flex-box)
 * Gerador de Número Aleatório (Random number generator)
 * Comunicação entre famílias de componentes de forma direta ou indireta (Communication between component families directly or indirectly)
